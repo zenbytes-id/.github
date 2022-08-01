@@ -1,4 +1,4 @@
-<p align="center">
+<p align="text-center">
   <h1>CLOBASOFT.ID ORGANIZATION</h1>
 </p>
 
