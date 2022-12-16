@@ -1,5 +1,5 @@
 <p align="text-center">
-  <h1>CLOBASOFT.ID</h1>
+  <h1>clobasoft.id</h1>
 </p>
 
 <p align="center">
