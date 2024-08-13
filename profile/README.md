@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img width="600" src="https://github.com/zenbytes-id/.github/blob/50f698623257b3a548fc23cb266c027baf11e17f/profile/images/logo/zenbytes%20logo_final_color_vertical.png" alt="Logo">
+  <img width="600" src="https://github.com/zenbytes-id/.github/blob/13667299df62d0b704cf0be0073b9bb8d6e1ea6b/profile/images/logo/zenbytes%20logo_final_color_vertical_text.png" alt="Logo">
 </p>
