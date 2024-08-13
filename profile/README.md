@@ -1,7 +1,7 @@
 <p align="text-center">
-  <h1>clobasoft.id</h1>
+  <h1>zenbytes.id</h1>
 </p>
 
 <p align="center">
-  <img width="460" src="https://github.com/clobasoft-id/.github/blob/ce3cfcafd2be7ed779f8702a71411e1972024ca7/profile/images/logo/CLOBASOFT-FINAL-BG.png" alt="Logo">
+  <img width="600" src="https://github.com/zenbytes-id/.github/blob/50f698623257b3a548fc23cb266c027baf11e17f/profile/images/logo/zenbytes%20logo_final_color_vertical.png" alt="Logo">
 </p>
